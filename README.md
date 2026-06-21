@@ -3,7 +3,7 @@ QR code website made using basic HTML and CSS
 
 # Links
 - Live Site URL: 
-- Repository URL:
+- Repository URL: https://github.com/yashsvi-gawhade/frontend-mentor-challenge-1
   
 # Built With
 - HTML
